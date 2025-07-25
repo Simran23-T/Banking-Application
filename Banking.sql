@@ -1,6 +1,6 @@
-CREATE DATABASE `Bank`;
+CREATE DATABASE `Banking`;
 
-USE `Bank`;
+USE `Banking`;
 
 drop table bank_accounts;
 drop table transactions;
