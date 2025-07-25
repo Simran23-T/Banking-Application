@@ -17,6 +17,14 @@ A user-friendly **Banking System** built using **Python**, **Streamlit**, and **
 
 ---
 
+<img width="1907" height="936" alt="Banking" src="https://github.com/user-attachments/assets/d059f1c6-6641-4b03-8cd2-38c9e6f38f85" />
+
+
+
+
+
+
+----
 ## 🛠️ Tech Stack
 
 | Technology | Role                           |
